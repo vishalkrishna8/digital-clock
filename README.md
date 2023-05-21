@@ -3,6 +3,8 @@
 
 This is a simple Digital Clock built using JavaScript that displays the current time.
 
+<!-- ## Live demo -->
+
 ## Features
 
 - The clock displays the current time in hours, minutes and seconds.
