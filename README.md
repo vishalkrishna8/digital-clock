@@ -30,7 +30,3 @@ To use this application, simply follow these steps:
 
 1. Open `index.html` in your browser.
 2. The clock will automatically start running and displaying the current time.
-
-
-## License
-
